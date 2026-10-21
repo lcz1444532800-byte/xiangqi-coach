@@ -1,0 +1,19 @@
+# environments / build output
+.venv/
+__pycache__/
+.pytest_cache/
+work/
+发布/
+
+# runtime data (settings, learned skin, diagnostics)
+data/
+
+# engine binaries: download with  python tools/install_engine.py
+engine/pikafish.exe
+engine/pikafish.nnue
+engine/Pikafish-source.zip
+
+# old version kept locally only
+旧版V0.1备份/
+tests/fixtures/jj_photo.jpg
+*.log

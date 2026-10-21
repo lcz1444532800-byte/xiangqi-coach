@@ -1,0 +1,12 @@
+{
+  "tag": "Pikafish-2026-09-06",
+  "release_url": "https://github.com/official-pikafish/Pikafish/releases/download/Pikafish-2026-09-06/Pikafish.2026-09-06.7z",
+  "archive_sha256": "41952bbfe2520faceb5902c69e6ab4845cc999841d2b49a95cc1be7867a25e5b",
+  "source_url": "https://github.com/official-pikafish/Pikafish/archive/refs/tags/Pikafish-2026-09-06.zip",
+  "files": {
+    "Copying.txt": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "Pikafish-source.zip": "0dd14eb1d1fc1144c7a98ec824461eaf2d451a16013046652c60a2e95972ce23",
+    "pikafish.exe": "0d57d64c212e78f96cba9e5e4f140d8872f8faa42ea631a27ab6c5db08509da3",
+    "pikafish.nnue": "7d13d73569a9b571ba0eb20cf1596247bc2a42738967e61afef6482b231e900e"
+  }
+}
